@@ -1,0 +1,22 @@
+/*
+
+You can set up a global style here that is commonly used in each stanza.
+
+Example:
+
+h1 {
+  font-size: 24px;
+}
+
+*/
+main {
+  padding: 1rem 1rem;
+  background-color: var(--togostanza-background-color);
+}
+
+pre {
+  font-family: Consolas, Monaco, monospace;
+  font-size: var(--togostanza-font-size);
+  line-height: var(--togostanza-line-height);
+  color: var(--togostanza-font-color);
+}

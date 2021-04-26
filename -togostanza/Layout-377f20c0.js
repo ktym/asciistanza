@@ -8688,6 +8688,8 @@ var version = "0.0.1";
 var license = "MIT";
 var repository = "https://github.com/ktym/asciistanza";
 var dependencies = {
+	d3: "^6.7.0",
+	"d3-scale": "^3.3.0",
 	togostanza: "github:togostanza/togostanza"
 };
 var engines = {
@@ -8839,4 +8841,4 @@ script.render = render;
 script.__file = "node_modules/togostanza/src/components/Layout.vue";
 
 export { Fragment as F, renderList as a, createVNode as b, createBlock as c, defineComponent as d, createCommentVNode as e, createApp as f, computed as g, createTextVNode as h, ref as i, octicons as j, popScopeId as k, withScopeId as l, mergeProps as m, n, openBlock as o, pushScopeId as p, resolveComponent as r, script as s, toDisplayString as t, withCtx as w };
-//# sourceMappingURL=Layout-64342769.js.map
+//# sourceMappingURL=Layout-377f20c0.js.map
