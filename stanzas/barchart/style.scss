@@ -1,0 +1,14 @@
+// Load the repository-wide global style here. The actual file is located at ../common.scss for details.
+@use '@/common.scss';
+
+main {
+  padding: 1rem 1rem;
+  background-color: var(--togostanza-background-color);
+}
+
+pre {
+  font-family: Consolas, Monaco, monospace;
+  font-size: var(--togostanza-font-size);
+  line-height: var(--togostanza-line-height);
+  color: var(--togostanza-font-color);
+}
