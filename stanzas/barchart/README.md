@@ -1,3 +1,4 @@
-# Barchart
+# ASCII Barchart
 
-Stanza description goes here. Edit `stanzas/barchart/README.md` to update.
+ASCII version of the [MetaStanza barchart](https://togostanza.github.io/metastanza/barchart.html).
+
